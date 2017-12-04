@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
     
+  resources :stock_symbols
     get 'welcome/welcomepage'
 
     root 'welcome#welcomepage'

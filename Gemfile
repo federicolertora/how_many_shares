@@ -44,7 +44,7 @@ gem 'jquery-rails'
 gem 'font-awesome-rails'
 
 
-
+gem 'stock_quote'
 gem 'stamp'
 
 

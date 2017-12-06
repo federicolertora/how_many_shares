@@ -63,6 +63,7 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
   
+  # Use sqlite3 ad the db for Active Record
   gem 'sqlite3'
   
 end
